@@ -1,0 +1,14 @@
+Deliverables Locations
+
+Directory\Folder - HMS\Deliverables
+
+Deliverable 4 - HMS\Deliverables\Deliverable 4
+
+
+Source Code:
+
+API -  HMS\Source Code\API
+
+Database - HMS\Source Code\Database
+
+Front End - HMS\Source Code\Front_End
